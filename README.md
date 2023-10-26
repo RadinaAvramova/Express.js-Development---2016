@@ -1,19 +1,17 @@
 # Express.js-Development-2016
 
-Курсът беше интензивен и целеше да ни запознае с разработката на сървърни JavaScript приложения върху платформата Node.js, използвайки Express.js, като framework. По време на обучението разбрах как да създадам сървър с Node.js, научих сървър-клиент архитектурата и как да правя лесни и бързи data-driven web приложения с Node.js, Express.js и MongoDB, използвайки съвременни похвати и инструменти. Разгледох една от най-популярните нерелационни бази от данни - MongoDB, заедно с библиотеката Mongoose за взимане на данни от нея. Към края на курса изградихме от нулата един цялостен REST API, ползвайки Express.js и MongoDB.
+The course is intensive and aims to familiarize students with developing server-side JavaScript applications on the Node.js platform using Express.js as a framework. During the course we will learn how to create a server with Node.js, learn the server-client architecture and how to make easy and fast data-driven web applications with Node.js, Express.js and MongoDB using modern techniques and tools. One of the most popular non-relational databases, MongoDB, will be covered along with the Mongoose library for taking data from it. Towards the end of the course, a complete REST API will be built from scratch using Express.js and MongoDB.
 
-Умения, които ще придобих:
+Acquired skills :
 
--Създаване на приложения изцяло с JavaScript
+  - Creating applications entirely with JavaScript
 
--MVC архитектура
+  - MVC architecture
 
--Работа с нерелационни бази данни
+  - Working with non-relational databases
 
--Сървърни приложения с Express.JS
+  - Server applications with Express.JS
 
--Основни познания по HTTP протокола
+  - Basic knowledge of the HTTP protocol
 
--Какво е Web Server
-
-Преподавател: Ивайло Кенов
+  - What is Web Server
